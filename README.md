@@ -1,2 +1,3 @@
-# Assessment-Exercise-Lab-2025
-Assessment exercise for developer
+# Assessment exercise
+
+Assessment exercise for backend and frontend developer, preconfigured to work with GitHub Codespaces.
